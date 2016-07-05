@@ -88,7 +88,7 @@ a:hover {
 .nav-tabs {
     position: absolute;
     z-index: 99999999999999999;
-    left: 110px;
+    left: 98px;
     top: -6px;
     border-bottom: none;
 }
