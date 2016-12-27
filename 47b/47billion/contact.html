@@ -85,39 +85,43 @@
     <section id="contact-form">
         <div class="container" style="margin-bottom: 40px;">
             <div class="col-lg-12 wow flipInX text-left">
-                <h2><small>Let's start discussing</small><br><strong>Your new idea</strong></h2>
-                <p class="lead">We would love to <span class="highlight">hear from you.</span></p>
+                <h2><small>Let us help you</small><br><strong>build your big product</strong></h2>
+                <p class="lead">hand-in-hand like a true partner in crime!</span></p>
             </div>
             <div class="col-lg-12 text-left wow flipInX no-pad" id="contact">
                 <form method="post" action="https://formspree.io/ashish.sahu@47billion.com" style="padding: 0 0 120px;">
                     <input type="hidden" name="_subject" value="47Billion Contact" />
                     <input type="hidden" name="_next" value="thank-you.html" />
                     <input type="text" name="_gotcha" style="display:none">
-                        <div class="col-md-12"><br /><p class="lead">Little about you</p></div>
+                        <div class="col-md-12"><br /><p class="lead">About you</p></div>
                         <div class="col-md-6">
                             <input name="Name" type="text" id="name" size="30" value="" placeholder="Your Name" required/>
                             <br />
-                            <input name="Company" type="text" id="company" size="30" value="" placeholder="Your Company" required/>
-                        </div>
-                        <div class="col-md-6">
                             <input name="Email" type="email" id="email" size="30" value="" placeholder="Your Email" required/>
+                            </div>
+                        <div class="col-md-6">
+                            <input name="Company" type="text" id="company" size="30" value="" placeholder="Your Company" required/>
                             <br />
                             <input name="Phone" type="number" id="phone" size="30" value="" placeholder="Your Phone" required/>
                         </div>
-                    <div class="col-md-12"><br><br><p class="lead">About your project</p></div>
+                    <div class="col-md-12"><br><br><p class="lead">Your Idea</p></div>
+                    <div class="col-md-6">
+                        <textarea name="Project Summary" cols="20" id="summary" maxlength="1000" rows="1.5" autocomplete="off"  placeholder="Share your idea" required></textarea>
+                    </div>
+                    <div class="col-md-12"><br><br><p class="lead">Where can we help you?</p></div>
                     <div class="col-md-12">
                         <div class="checkbox checkbox-primary pull-left">
-                            <input name="Mobile Development" id="MobileDevelopment" type="checkbox">
-                            <label for="MobileDevelopment">Mobile Development
+                            <input name="User Experience" id="UserExperience" type="checkbox">
+                            <label for="UserExperience">User Experience
                             </label>
                         </div>
                         <div class="checkbox checkbox-primary pull-left">
-                            <input name="UX" id="ux" type="checkbox">
-                            <label for="ux">UX</label>
+                            <input name="User Interface" id="UserInterface" type="checkbox">
+                            <label for="UserInterface">User Interface</label>
                         </div>
                         <div class="checkbox checkbox-primary pull-left">
-                            <input name="UI" id="ui" type="checkbox">
-                            <label for="ui">UI</label>
+                            <input name="Mobile App" id="MobileApp" type="checkbox">
+                            <label for="MobileApp">Mobile App</label>
                         </div>
                         <div class="checkbox checkbox-primary pull-left">
                             <input name="Web App" id="WebApp" type="checkbox">
@@ -128,17 +132,13 @@
                             <label for="Backend">Backend</label>
                         </div>
                         <div class="checkbox checkbox-primary pull-left">
-                            <input name="Big Data" id="BigData" type="checkbox">
-                            <label for="BigData">Big Data
+                            <input name="Analytics/Predictions" id="AnalyticsPredictions" type="checkbox">
+                            <label for="AnalyticsPredictions">Analytics/Predictions
                             </label>
                         </div>
                     </div>
-                    <div class="col-md-12"><br><br><p class="lead">Project Summary</p></div>
-                    <div class="col-md-6">
-                        <textarea name="Project Summary" cols="20" id="summary" maxlength="1000" rows="1.5" autocomplete="off"  placeholder="Project summary: Share your thoughts on your project" required></textarea>
-                        </div>
-                    <div class="col-md-12 text-left">
-                        <input type="submit" class="submit" id="submit" value="Send us your project"  />
+                    <div class="col-md-12 text-left"><br>
+                        <input type="submit" class="submit" id="submit" value="Click to submit"  />
                     </div>
                 </form>
             </div>
@@ -214,6 +214,7 @@
                                 <a href="index.html#services">Services</a>
                                 <a href="index.html#our-work">Portfolio</a>
 								<a href="index.html#clients">Clients</a>
+								<a href="index.html#team">Team</a>
 								<!--<a href="mobile-app-development-company-journal">Journal</a>-->
                                 <a href="contact.html">Contact</a>
 								<a href="mailto:hello@47billion.com"><img src="images/email.svg" height="12" /> </a>
