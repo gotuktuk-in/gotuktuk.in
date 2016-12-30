@@ -2,67 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e22c6a3a-8ccc-4e1c-b74f-9318e4600ed6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/mobile-dr-plus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/team-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/wa-vipulapp.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/mobile-drplus.html" afterPath="$PROJECT_DIR$/projects/ux-nazara.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/wa-vipul.html" afterPath="$PROJECT_DIR$/projects/template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/alerio.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/alerio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/alerio.png" afterPath="$PROJECT_DIR$/images/portfolio/full/alerio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/cavo.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/cavo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/cavo.png" afterPath="$PROJECT_DIR$/images/portfolio/full/cavo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/jio.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/jio.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/jio.png" afterPath="$PROJECT_DIR$/images/portfolio/full/jio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/mobile-agribolo.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/mobile-agribolo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/nazara.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/nazara.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/nazara.png" afterPath="$PROJECT_DIR$/images/portfolio/full/nazara.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/personagraph.png" afterPath="$PROJECT_DIR$/images/portfolio/full/personagraph.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/pg.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/pg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/tuktuk.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/tuktuk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/tuktuk.png" afterPath="$PROJECT_DIR$/images/portfolio/full/tuktuk.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/ux-agoranza.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/ux-agoranza.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/ux-agoranza.png" afterPath="$PROJECT_DIR$/images/portfolio/full/ux-agoranza.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/ux-agribolo.png" afterPath="$PROJECT_DIR$/images/portfolio/full/ux-agribolo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/ux-nazara.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/ux-nazara.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/ux-nazara.png" afterPath="$PROJECT_DIR$/images/portfolio/full/ux-nazara.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/ux-tuktuk.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/ux-tuktuk.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/ux-tuktuk.png" afterPath="$PROJECT_DIR$/images/portfolio/full/ux-tuktuk.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/wa-agoranza.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/wa-agoranza.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/wa-agoranza.png" afterPath="$PROJECT_DIR$/images/portfolio/full/wa-agoranza.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/wa-cisco.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/wa-cisco.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/wa-cisco.png" afterPath="$PROJECT_DIR$/images/portfolio/full/wa-cisco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/wa-vipulapp.png" afterPath="$PROJECT_DIR$/images/portfolio/full/wa-vipulapp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/thumb/wa-voot.jpg" afterPath="$PROJECT_DIR$/images/portfolio/thumb/wa-voot.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/full/wa-voot.png" afterPath="$PROJECT_DIR$/images/portfolio/full/wa-voot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/bd-cavo.html" afterPath="$PROJECT_DIR$/projects/bd-cavo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/bd-jio.html" afterPath="$PROJECT_DIR$/projects/bd-jio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/bd-nazara.html" afterPath="$PROJECT_DIR$/projects/bd-nazara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/bd-personagraph.html" afterPath="$PROJECT_DIR$/projects/bd-personagraph.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/be-alerio.html" afterPath="$PROJECT_DIR$/projects/be-alerio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/be-cavo.html" afterPath="$PROJECT_DIR$/projects/be-cavo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/be-nazara.html" afterPath="$PROJECT_DIR$/projects/be-nazara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/be-personagraph.html" afterPath="$PROJECT_DIR$/projects/be-personagraph.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/be-tuktuk.html" afterPath="$PROJECT_DIR$/projects/be-tuktuk.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/Office-Day.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/video/Office-Day.webm" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index-1.html" afterPath="$PROJECT_DIR$/index-1111.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index-2.html" afterPath="$PROJECT_DIR$/index-2222.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video/Agile_1.mp4" afterPath="$PROJECT_DIR$/video/Agile_1.mp4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video/Agile_1.webm" afterPath="$PROJECT_DIR$/video/Agile_1.webm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Office-Day.jpg" afterPath="$PROJECT_DIR$/images/Office-Day.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/cubeportfolio.css" afterPath="$PROJECT_DIR$/css/cubeportfolio.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/flexslider.css" afterPath="$PROJECT_DIR$/css/flexslider.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mobile-agribolo.html" afterPath="$PROJECT_DIR$/projects/mobile-agribolo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mobile-cisco.html" afterPath="$PROJECT_DIR$/projects/mobile-cisco.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mobile-tuktuk.html" afterPath="$PROJECT_DIR$/projects/mobile-tuktuk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/mobile-uh-o.html" afterPath="$PROJECT_DIR$/projects/mobile-uh-o.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/toucheffects.js" afterPath="$PROJECT_DIR$/js/toucheffects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/ui-alerio.html" afterPath="$PROJECT_DIR$/projects/ui-alerio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/ui-cisco.html" afterPath="$PROJECT_DIR$/projects/ui-cisco.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/ui-tuktuk.html" afterPath="$PROJECT_DIR$/projects/ui-tuktuk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/ux-agoranza.html" afterPath="$PROJECT_DIR$/projects/ux-agoranza.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/ux-tuktuk.html" afterPath="$PROJECT_DIR$/projects/ux-tuktuk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/wa-agoranza.html" afterPath="$PROJECT_DIR$/projects/wa-agoranza.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/wa-cisco.html" afterPath="$PROJECT_DIR$/projects/wa-cisco.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/wa-voot.html" afterPath="$PROJECT_DIR$/projects/wa-voot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/team-slider.css" afterPath="$PROJECT_DIR$/css/team-slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thank-you.html" afterPath="$PROJECT_DIR$/thank-you.html" />
     </list>
     <ignored path="47billion.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -86,11 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43881118" vertical-offset="1834" max-vertical-offset="20970">
-              <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+            <state vertical-scroll-proportion="-14.875" vertical-offset="6333" max-vertical-offset="9090">
+              <caret line="1235" column="71" selection-start-line="1235" selection-start-column="71" selection-end-line="1235" selection-end-column="128" />
               <folding>
                 <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -106,6 +58,7 @@
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#6;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -122,6 +75,10 @@
                 <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#12;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#13;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#14;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -158,12 +115,57 @@
                 <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#span#0;n#div#2;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.708333" vertical-offset="2161" max-vertical-offset="3825">
+              <caret line="187" column="128" selection-start-line="187" selection-start-column="128" selection-end-line="187" selection-end-column="128" />
+              <folding>
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3204698" vertical-offset="45304" max-vertical-offset="45990">
+              <caret line="3033" column="51" selection-start-line="3033" selection-start-column="51" selection-end-line="3033" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thank-you.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thank-you.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.625" vertical-offset="1455" max-vertical-offset="3045">
+              <caret line="135" column="128" selection-start-line="135" selection-start-column="128" selection-end-line="135" selection-end-column="128" />
+              <folding>
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cubeportfolio.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/cubeportfolio.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="58041" max-vertical-offset="58650">
+              <caret line="3903" column="33" selection-start-line="3903" selection-start-column="33" selection-end-line="3903" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -191,21 +193,16 @@
         <option value="$PROJECT_DIR$/js/jquery.cubeportfolio.min.js" />
         <option value="$PROJECT_DIR$/css/theme/blue.css" />
         <option value="$PROJECT_DIR$/projects/mobile-pijnofy.html" />
-        <option value="$PROJECT_DIR$/thank-you.html" />
         <option value="$PROJECT_DIR$/index-2.html" />
         <option value="$PROJECT_DIR$/js/toucheffects.js" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/projects/wa-vipul.html" />
         <option value="$PROJECT_DIR$/projects/mobile-drplus.html" />
         <option value="$PROJECT_DIR$/projects/bd-jio.html" />
         <option value="$PROJECT_DIR$/projects/bd-nazara.html" />
         <option value="$PROJECT_DIR$/projects/bd-personagraph.html" />
         <option value="$PROJECT_DIR$/projects/be-alerio.html" />
-        <option value="$PROJECT_DIR$/css/cubeportfolio.css" />
         <option value="$PROJECT_DIR$/projects/bd-cavo.html" />
         <option value="$PROJECT_DIR$/projects/ui-alerio.html" />
-        <option value="$PROJECT_DIR$/css/team-slider.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/css/flexslider.css" />
         <option value="$PROJECT_DIR$/projects/mobile-tuktuk.html" />
@@ -226,7 +223,12 @@
         <option value="$PROJECT_DIR$/projects/be-personagraph.html" />
         <option value="$PROJECT_DIR$/projects/be-nazara.html" />
         <option value="$PROJECT_DIR$/projects/be-cavo.html" />
+        <option value="$PROJECT_DIR$/css/team-slider.css" />
+        <option value="$PROJECT_DIR$/css/cubeportfolio.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/thank-you.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -294,6 +296,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="47billion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="47billion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -320,7 +336,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index-2.html">
+  <component name="RunManager" selected="JavaScript Debug.index-2222.html">
     <configuration default="false" name="Leading mobile app development company in India - CodeCraft Technologies.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/47billion/Leading mobile app development company in India - CodeCraft Technologies.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -331,7 +347,7 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="index-1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/47billion/index-1.html">
+    <configuration default="false" name="index-1111.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/47billion/index-1111.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -341,7 +357,7 @@
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="index-2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/47billion/index-2.html">
+    <configuration default="false" name="index-2222.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/47billion/index-2222.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -387,16 +403,16 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Leading mobile app development company in India - CodeCraft Technologies.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index-1.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index-1111.html" />
       <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-2.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index-2222.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-2.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index-2222.html" />
         <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-1.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index-1111.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -415,7 +431,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -486,6 +502,7 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#6;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -502,6 +519,10 @@
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#12;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#13;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#14;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -538,6 +559,7 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -550,14 +572,6 @@
     <entry file="file://$PROJECT_DIR$/css/animate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="42255">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/liquid-slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6480">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -586,14 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thank-you.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7902098" vertical-offset="673" max-vertical-offset="1740">
-          <caret line="75" column="53" selection-start-line="75" selection-start-column="53" selection-end-line="75" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-1.html">
+    <entry file="file://$PROJECT_DIR$/index-1111.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.15035" vertical-offset="9810" max-vertical-offset="15930">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -601,7 +608,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-2.html">
+    <entry file="file://$PROJECT_DIR$/index-2222.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.75" vertical-offset="240" max-vertical-offset="11520">
           <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="54" />
@@ -712,17 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.625" vertical-offset="870" max-vertical-offset="4155">
-          <caret line="91" column="95" selection-start-line="91" selection-start-column="95" selection-end-line="91" selection-end-column="95" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
@@ -730,26 +726,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/team-slider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04682274" vertical-offset="377" max-vertical-offset="975">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.cubeportfolio.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.0535117" vertical-offset="1890" max-vertical-offset="33495">
           <caret line="84" column="43" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/cubeportfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.89689" vertical-offset="30533" max-vertical-offset="58650">
-          <caret line="2235" column="1" selection-start-line="2235" selection-start-column="1" selection-end-line="2235" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -762,28 +742,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.454698" vertical-offset="39599" max-vertical-offset="45825">
-          <caret line="2658" column="1" selection-start-line="2658" selection-start-column="1" selection-end-line="2658" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="4680">
-          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/wa-vipulapp.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36713287" vertical-offset="0" max-vertical-offset="572">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -793,7 +757,7 @@
         <state vertical-scroll-proportion="0.35897437" vertical-offset="0" max-vertical-offset="585">
           <caret line="14" column="80" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="80" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -803,7 +767,7 @@
         <state vertical-scroll-proportion="0.36713287" vertical-offset="0" max-vertical-offset="572">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -813,7 +777,7 @@
         <state vertical-scroll-proportion="0.36713287" vertical-offset="0" max-vertical-offset="572">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -823,7 +787,7 @@
         <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
           <caret line="14" column="69" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="69" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -833,7 +797,7 @@
         <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
           <caret line="14" column="149" selection-start-line="14" selection-start-column="149" selection-end-line="14" selection-end-column="149" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -843,7 +807,7 @@
         <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -853,7 +817,7 @@
         <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="495">
           <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -863,7 +827,7 @@
         <state vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="510">
           <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -873,7 +837,7 @@
         <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -883,7 +847,7 @@
         <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="510">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -893,7 +857,7 @@
         <state vertical-scroll-proportion="0.39335665" vertical-offset="0" max-vertical-offset="572">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -903,7 +867,7 @@
         <state vertical-scroll-proportion="0.4458042" vertical-offset="0" max-vertical-offset="572">
           <caret line="17" column="20" selection-start-line="15" selection-start-column="16" selection-end-line="17" selection-end-column="20" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -913,7 +877,7 @@
         <state vertical-scroll-proportion="0.35897437" vertical-offset="0" max-vertical-offset="585">
           <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -923,7 +887,7 @@
         <state vertical-scroll-proportion="0.41025642" vertical-offset="0" max-vertical-offset="585">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -933,7 +897,7 @@
         <state vertical-scroll-proportion="0.39335665" vertical-offset="0" max-vertical-offset="572">
           <caret line="15" column="169" selection-start-line="15" selection-start-column="169" selection-end-line="15" selection-end-column="169" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -943,7 +907,7 @@
         <state vertical-scroll-proportion="0.41025642" vertical-offset="0" max-vertical-offset="585">
           <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -953,7 +917,7 @@
         <state vertical-scroll-proportion="0.39335665" vertical-offset="0" max-vertical-offset="572">
           <caret line="15" column="149" selection-start-line="15" selection-start-column="149" selection-end-line="15" selection-end-column="149" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -963,7 +927,7 @@
         <state vertical-scroll-proportion="0.39335665" vertical-offset="0" max-vertical-offset="572">
           <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -973,7 +937,7 @@
         <state vertical-scroll-proportion="0.49825174" vertical-offset="0" max-vertical-offset="572">
           <caret line="19" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="6" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -983,7 +947,7 @@
         <state vertical-scroll-proportion="0.61538464" vertical-offset="0" max-vertical-offset="585">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1009,15 +973,47 @@
         <state vertical-scroll-proportion="0.35897437" vertical-offset="0" max-vertical-offset="585">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/liquid-slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.14778325" vertical-offset="90" max-vertical-offset="6480">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.260067" vertical-offset="3409" max-vertical-offset="4680">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/team-slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5033557" vertical-offset="0" max-vertical-offset="930">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/cubeportfolio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="58041" max-vertical-offset="58650">
+          <caret line="3903" column="33" selection-start-line="3903" selection-start-column="33" selection-end-line="3903" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43881118" vertical-offset="1834" max-vertical-offset="20970">
-          <caret line="139" column="16" selection-start-line="139" selection-start-column="16" selection-end-line="139" selection-end-column="16" />
+        <state vertical-scroll-proportion="-14.875" vertical-offset="6333" max-vertical-offset="9090">
+          <caret line="1235" column="71" selection-start-line="1235" selection-start-column="71" selection-end-line="1235" selection-end-column="128" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1033,6 +1029,7 @@
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#6;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1049,6 +1046,10 @@
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#12;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#13;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#figcaption#0;n#a#0;n#figure#0;n#li#14;n#ul#0;n#div#3;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1085,12 +1086,41 @@
             <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#small#0;n#h5#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#span#0;n#div#2;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thank-you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="1455" max-vertical-offset="3045">
+          <caret line="135" column="128" selection-start-line="135" selection-start-column="128" selection-end-line="135" selection-end-column="128" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.708333" vertical-offset="2161" max-vertical-offset="3825">
+          <caret line="187" column="128" selection-start-line="187" selection-start-column="128" selection-end-line="187" selection-end-column="128" />
+          <folding>
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3204698" vertical-offset="45304" max-vertical-offset="45990">
+          <caret line="3033" column="51" selection-start-line="3033" selection-start-column="51" selection-end-line="3033" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>
